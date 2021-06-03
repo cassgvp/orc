@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Add an event
+title: Subscribe to the email round-up
 ---
 
-Text about adding an event
+Sign up here to receive a monthly email summary of the upcoming events which have been submitted to the Open Research Calendar.
+
+You can unsubscribe at any time using the link provided in the footer of each email. 
 
 <div style="--aspect-ratio: 3/4;">
   <iframe

@@ -5,6 +5,8 @@ title: Contact
 
 We invite you to contact us using any of the methods below.
 
+**UPDATE**
+
 <img align="left" src="../img/icon-email.png" alt="email" width="3.5%">&nbsp;Email: <ohbm.osr@gmail.com>
 <br>  
 <img align="left" src="../img/icon-twitter.png" alt="twitter" width="3.5%">&nbsp;Twitter: <a href="https://twitter.com/OhbmOpen">@OhbmOpen</a> #OHBM2020 #OSR

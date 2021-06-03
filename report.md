@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Add an event
+title: Report an event
 ---
 
-Text about adding an event
+Text about reporting an event
 
 <div style="--aspect-ratio: 3/4;">
   <iframe
