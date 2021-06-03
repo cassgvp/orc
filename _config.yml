@@ -23,7 +23,7 @@ navbar-links:
   Add: "add"
   Report: "report"
   Subscribe:
-    - Email round-up: "email-round-up"
+    - Email round-up: "email-subscribe"
     - Google calendar: "google-calendar"
   Archive: "archive"
   Sponsor: "sponsor"
@@ -55,7 +55,7 @@ avatar: "/img/Images/logo.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#24616E"
-navbar-text-col: "#63BAAB"
+navbar-text-col: "#F4B998"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#DF7229"
