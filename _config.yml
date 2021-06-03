@@ -54,7 +54,7 @@ avatar: "/img/Images/logo.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F4B998"
+navbar-col: "#24616E"
 navbar-text-col: "#63BAAB"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
