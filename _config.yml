@@ -20,18 +20,25 @@ description: Open Science Room 2020
 
 # List of links in the navigation bar. Strings should match .md filenames
 navbar-links:
-  Join: "join"
-  Program:
-    - Schedule: "schedule"
-    - Speakers: "speakers"
-    - Themes: "themes"
-    - Formats: "formats"
-    - Submit: "submit"
-    - Review: "review"
-  Register: "register"
-  Accessibility: "access"
-  Volunteers: "volunteers"
-  FAQ: "faq"
+  Add: "add"
+  Report: "report"
+  Subscribe:
+    - Email round-up: "email-round-up"
+    - Google calendar: "google-calendar"
+  Archive: "archive"
+  Sponsor: "sponsor"
+  Stickers: "stickers"
+  # Program:
+  #   - Schedule: "schedule"
+  #   - Speakers: "speakers"
+  #   - Themes: "themes"
+  #   - Formats: "formats"
+  #   - Submit: "submit"
+  #   - Review: "review"
+  # Register: "register"
+  # Accessibility: "access"
+  # Volunteers: "volunteers"
+  # FAQ: "faq"
   # Watch: "watch"
 
 
