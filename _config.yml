@@ -55,14 +55,14 @@ avatar: "/img/Images/logo.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#24616E"
-navbar-text-col: "#F4B998"
+navbar-text-col: "#24616E"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#DF7229"
 hover-col: "#93B6BD"
-footer-col: "#084C61"
-footer-text-col: "#C4CBC0"
-footer-link-col: "#569AAA"
+footer-col: "#24616E"
+footer-text-col: "#FFE8D1"
+footer-link-col: "#24616E"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -76,7 +76,7 @@ footer-link-col: "#569AAA"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: OSSIG
+  name: Open Research Calendar
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -86,16 +86,16 @@ social-network-links:
 #  rss: true
 
 #  facebook: deanattali
-  github: ohbm
-  twitter: OhbmOpen
+  github: openresearchcalendar
+  twitter: OpenResearchCal
 #  reddit: yourname
 #  linkedin: stephan-heunis-4b558154
-  email: "ohbm.osr@gmail.com"
+  email: "info@openresearchcalendar.org"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-  youtube: channel/UChvSitFvqGDeA1y7MJs4CGQ
+  # youtube: channel/UChvSitFvqGDeA1y7MJs4CGQ
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
