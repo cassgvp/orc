@@ -3,7 +3,7 @@ layout: page
 title: Add an event
 ---
 
-Text about adding an event
+Add an event to the calendar by filling in the form below. Your event will be tweeted in < 10 minutes to our [twitter followers](https://twitter.com/OpenResearchCal/followers) and [emailed to our monthly subscribers](email-subscribe.md).
 
 <div style="--aspect-ratio: 3/4;">
   <iframe
